@@ -24,8 +24,10 @@ Le marché cherche des profils polyvalents ? Je construis cette polyvalence avec
 
 💡 Stack technique
 
-Dev : Python, JavaScript, PHP, HTML/CSS, YAML , React , Node.js , 
+Dev : Python, JavaScript, PHP, HTML/CSS, YAML , React , Node.js 
+
 Systèmes : Active Directory, DHCP, WSUS, serveurs Windows
+
 Support : Résolution incidents, logiciels métiers, environnement B2B
 
 🔨 Expériences 
