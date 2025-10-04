@@ -17,9 +17,11 @@ Le marché cherche des profils polyvalents ? Je construis cette polyvalence avec
 
 
 🎯 Étudiant Epitech Montpellier - Pre-MSc IA & Transformation des Organisations
+
 ⚡ Profil hybride : Infrastructure IT → Développement & IA
 
 💼 Ex-Technicien Systèmes & Réseaux chez Computacenter
+
 🔐 Intérêts : Cybersécurité, automatisation et applications concrètes de l'IA
 
 💡 Stack technique
@@ -33,7 +35,9 @@ Support : Résolution incidents, logiciels métiers, environnement B2B
 🔨 Expériences 
 
 🌐 Déploiement et administration d'infrastructures réseau critiques
+
 💻 Support technique niveau 2 en ESN (gestion tickets & résolution incidents)
+
 🧠 Formation continue : IA, data analysis et développement full-stack
 
 
