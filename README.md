@@ -4,7 +4,7 @@ Après un parcours en Systèmes & Réseaux (DUT + 1 an chez Computacenter), j'ai
 
 De l'infrastructure au code !
 
-Après un DUT Systèmes & Réseaux et une expérience terrain chez Computacenter, j'ai découvert une réalité du marché. Les entreprises cherchent des profils hybrides capables de comprendre l'infrastructure ET de développer des solutions.
+J'ai découvert une réalité du marché. Les entreprises cherchent des profils hybrides capables de comprendre l'infrastructure ET de développer des solutions.
 Cette difficulté à trouver ma place m'a poussé vers une reconversion stratégique à Epitech. Plutôt que de choisir entre réseau ou dev, j'ai décidé de maîtriser les deux. Parce qu'un développeur qui comprend les architectures réseau peut créer des applications plus robustes. Et qu'un expert infrastructure qui code peut automatiser, optimiser et innover !
 
 Mes forces !
@@ -13,7 +13,8 @@ Mes forces !
 - Je comprends la cybersécurité des infrastructures... et peux développer des outils de monitoring
 - J'ai géré des incidents IT... et maintenant je code les solutions qui les préviennent
 
-Le marché cherche des profils polyvalents ? Je construis cette polyvalence avec conviction. Parce que la tech moderne ne sépare plus infrastructure et développement - elle les fusionne
+Le marché cherche des profils polyvalents ? Je construis cette polyvalence avec conviction. 
+Parce que la tech moderne ne sépare plus infrastructure et développement - elle les fusionne !
 
 
 🎯 Étudiant Epitech Montpellier - Pre-MSc IA & Transformation des Organisations
