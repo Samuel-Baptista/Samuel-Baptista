@@ -1,6 +1,6 @@
 👋 👋 Samuel, 28 ans - **Profil hybride Infrastructure & Développement**
 
-Après un parcours en Systèmes & Réseaux (DUT + 1 an chez Computacenter),
+Après un parcours en Systèmes & Réseaux (BAC + 2 spécialisé Infrastructure + 1 an chez Computacenter),
 j'ai fait le choix d'une reconversion stratégique à Epitech pour fusionner mes compétences infrastructure avec le développement et l'IA !
 
 ## 🧑‍💻 Mes compétences techniques
