@@ -62,7 +62,7 @@ j'ai fait le choix d'une reconversion stratégique à Epitech pour fusionner mes
 - **JobBoard** 📰 :Création d'un site de recherche d'emplois
 - **Systèmes autosuffisant** 🏡 : Gestion d'un serveur et d'une infrastructure réseau permettant sauvegarde interne des donnés utilisateurs et gestion des mises à jours et des règles de sécurités mises en place par l'entreprise client.
 
-## 💪 Forces
+## 💪 Mes point fort
 
 Je sais déployer un domaine Active Directory... et scripter son automatisation.
 Je comprends la cybersécurité des infrastructures... et peux développer des outils de monitoring.
