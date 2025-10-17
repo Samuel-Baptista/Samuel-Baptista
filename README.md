@@ -67,6 +67,7 @@ j'ai fait le choix d'une reconversion stratégique à Epitech pour fusionner mes
 Je sais déployer un domaine Active Directory... et scripter son automatisation.
 Je comprends la cybersécurité des infrastructures... et peux développer des outils de monitoring.
 J'ai géré des incidents IT... et maintenant je code les solutions qui les préviennent
+
 Le marché cherche des profils polyvalents ? Je construis cette polyvalence avec conviction.
 Parce que la tech moderne ne sépare plus infrastructure et développement - elle les fusionne !
 
